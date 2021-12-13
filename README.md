@@ -3,5 +3,5 @@ An analysis on data related to classified ads from the used motorcycles market p
 The purpose of the referred assignment is to create a number of programs/queries for analysing a dataset of ~30K classified ads from the used motorcycles market. I have also given access to some seller related actions that have been tracked in the previous months. For the analysis REDIS and MongoDB have been used.
 
 # Authors
-[Anastasios Theodorou](https://github.com/antheodorou)
+[Anastasios Theodorou](https://github.com/antheodorou) <br/>
 [Konstantina Georgiopoulou](https://github.com/konstantinagewrg)
